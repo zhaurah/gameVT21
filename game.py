@@ -9,6 +9,6 @@ def runtestcode(l):
 runtestcode([5, 3, 2, 4, 1, 7, 9])
 input()
 os.system('cls' if os.name == 'nt' else 'clear')
-runtestcode([5])
+runtestcode([5,6])
 input()
 os.system('cls' if os.name == 'nt' else 'clear')
